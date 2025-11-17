@@ -1,0 +1,45 @@
+# Временно создаваемые файлы
+*.obj
+*.exe
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.suo
+*.user
+*.ipch
+*.o
+*.obj
+*.tlog
+*.lastbuildstate
+*.log
+*.vspscc
+*.vssscc
+*.ncb
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+*.cachefile
+
+# Папки отладочных и релизных сборок
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+ARM/
+ARM64/
+
+# Папка настроек Visual Studio
+.vs/
+
+# Файлы CMake
+CMakeCache.txt
+CMakeFiles/
+
+# Файлы пакетов
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Локальные настройки
+*.local
